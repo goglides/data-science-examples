@@ -1,0 +1,8 @@
+langchain
+python-dotenv
+pandas
+openai
+pypdf
+sentence-transformers
+faiss-gpu
+rapidocr-onnxruntime
