@@ -39,3 +39,9 @@ Content in this repository is licensed under a Creative Commons Attribution-Shar
 A big thank you to all contributors and members of the goglides.dev community for their insightful discussions and contributions.
 
 Happy Data Exploring!
+
+## Copyright Notice and Reporting Abuse
+
+We strive to respect intellectual property rights and use only content that is either originally created, open-source, or properly credited. If you believe any material in this repository violates copyrights or uses uncredited information, please let us know immediately.
+
+Report any concerns or copyright violations to [info@goglides.dev](mailto:info@goglides.dev). We are committed to addressing these issues promptly and ensuring our repository adheres to legal and ethical standards.
