@@ -1,0 +1,5 @@
+langchain
+pandas
+openai
+faiss
+
