@@ -1,0 +1,6 @@
+llmlingua 
+openai 
+accelerate 
+python-dotenv 
+llama-index 
+llama-index-postprocessor-longllmlingua
